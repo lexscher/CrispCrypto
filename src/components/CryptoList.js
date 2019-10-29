@@ -40,7 +40,7 @@ export default class CryptoList extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    height: 600,
     justifyContent: "center",
     alignItems: "center",
     backgroundColor: "#050505"
